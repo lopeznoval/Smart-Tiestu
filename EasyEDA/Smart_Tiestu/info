@@ -1,0 +1,209 @@
+{
+  "uuid": "b0bf4501f0415579f290ffcf7f645103",
+  "path": "Offline/Smart_Tiestu",
+  "name": "Smart_Tiestu",
+  "content": "",
+  "created_at": "2025-11-10 21:26:29",
+  "updated_at": "2025-11-11 01:34:10",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "a0310927fe75a40fa2109349264682b9",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "760e3040dc9148d99648f75a302f9070": 1,
+        "49d780d868d0459f9f25a3df94583065": 1,
+        "6d59262ca37c4a51accc7244ee40487e": 1,
+        "e19f4f81af8a4a7f82f2b940031d97c1": 1,
+        "ad077cab6f5543c0a7684bbb7601c08a": 1,
+        "62f8137465cdeec1acfc1ae5a7704340": 1,
+        "8a6f828e8a2233e5136da005d68a73ac": 1,
+        "c2f910331055417aa571a96c2d958e08": 1,
+        "bb009484ef804a24ac5d18c54b249586": 3,
+        "3eca2e89d67b4fe5984cc741b1d2957c": 1,
+        "101e991a30b14ab7a14b842490d61bae": 2,
+        "5eebf85b4a32c45be3f2051b5d0e0f12": 1,
+        "30fa1354a4bd40f0a1b7429df0ee84d0": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "BS-CR2032-8",
+          2,
+          "BAT-SMD_BS-CR2032-8",
+          "BAT1,BAT2",
+          {
+            "Manufacturer Part": "BS-CR2032-8",
+            "Manufacturer": "LX(连欣科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7498149"
+          }
+        ],
+        [
+          "100uF",
+          1,
+          "CAP-TH_BD6.3-P2.50-D0.5-FD",
+          "C2",
+          {
+            "Manufacturer Part": "25YXG100MLLCT16.3X11",
+            "Manufacturer": "Rubycon(红宝石)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2920634"
+          }
+        ],
+        [
+          "B4B-PH-K-S(LF)(SN)",
+          1,
+          "CONN-TH_B4B-PH-K-S",
+          "CN1",
+          {
+            "Manufacturer Part": "B4B-PH-K-S(LF)(SN)",
+            "Manufacturer": "JST",
+            "Supplier": "LCSC",
+            "Supplier Part": "C131334"
+          }
+        ],
+        [
+          "2.54-1*6PHeader-RA",
+          1,
+          "HDR-TH_6P-P2.54-H-M-W10.0",
+          "J1",
+          {
+            "Manufacturer Part": "2.54-1*6P反弯排针",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C56816"
+          }
+        ],
+        [
+          "2.54mm 1*5P Header",
+          1,
+          "HDR-TH_5P-P2.54-V-M",
+          "P1",
+          {
+            "Manufacturer Part": "2.54mm 1*5P Header",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C50951"
+          }
+        ],
+        [
+          "AO3401A_C5380686",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q1",
+          {
+            "Manufacturer Part": "AO3401A",
+            "Manufacturer": "FUXINSEMI(富芯森美)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5380686"
+          }
+        ],
+        [
+          "10k",
+          3,
+          "R0603",
+          "R1,R2,R3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32-C3-MINI-1",
+          1,
+          "WIFIM-SMD_ESP32-C3-MINI-1",
+          "U1",
+          {
+            "Manufacturer Part": "ESP32-C3-MINI-1",
+            "Manufacturer": "RF Crazy(智汉)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5290152"
+          }
+        ],
+        [
+          "MCP1700T-3302E/TT",
+          1,
+          "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR",
+          "U2",
+          {
+            "Manufacturer Part": "MCP1700T-3302E/TT",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C39051"
+          }
+        ],
+        [
+          "BME280",
+          1,
+          "LGA-8_BME280_BL",
+          "U3",
+          {
+            "Manufacturer Part": "BME280",
+            "Manufacturer": "Bosch(博世)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C92489"
+          }
+        ],
+        [
+          "BH1750FVI-TR",
+          1,
+          "WSOF-6_L2.6-W1.6-P0.50-TL-EP",
+          "U4",
+          {
+            "Manufacturer Part": "BH1750FVI-TR",
+            "Manufacturer": "ROHM(罗姆)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C78960"
+          }
+        ],
+        [
+          "DS3231SN#",
+          1,
+          "SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL",
+          "U5",
+          {
+            "Manufacturer Part": "DS3231SN#T&R",
+            "Manufacturer": "ADI(亚德诺)/MAXIM(美信)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9866"
+          }
+        ],
+        [
+          "BUTTON",
+          2,
+          "SW-SMD_L3.9-W2.9-LS4.9-L",
+          "U6,U7",
+          {
+            "Manufacturer Part": "BUTTON",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900015607"
+          }
+        ]
+      ],
+      "updateTime": 1762821250,
+      "createTime": 1762806390,
+      "histories": [],
+      "created_at": "2025-11-10 21:26:30",
+      "updated_at": "2025-11-11 01:34:10"
+    }
+  ],
+  "sort": [],
+  "title": "Smart_Tiestu",
+  "foldername": "Smart_Tiestu",
+  "schfilename": "Smart_Tiestu.json",
+  "schfilemtime": 1762821250912
+}
