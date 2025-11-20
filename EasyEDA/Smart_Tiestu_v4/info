@@ -1,0 +1,246 @@
+{
+  "uuid": "f9e7095ea5b9e5b6473b67094ae7e85c",
+  "path": "Offline/Smart_Tiestu_v4",
+  "name": "Smart_Tiestu_v4",
+  "content": "",
+  "created_at": "2025-11-17 21:54:27",
+  "updated_at": "2025-11-18 01:39:33",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "0927d76b574c5d21d7679a515fe99260",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "49d780d868d0459f9f25a3df94583065": 1,
+        "0c519a9ddcfa48f3a0ac7f5d8285c10c": 1,
+        "6d59262ca37c4a51accc7244ee40487e": 1,
+        "62f8137465cdeec1acfc1ae5a7704340": 1,
+        "3eca2e89d67b4fe5984cc741b1d2957c": 1,
+        "bb009484ef804a24ac5d18c54b249586": 3,
+        "101e991a30b14ab7a14b842490d61bae": 1,
+        "6baac764081545900d527035a5806b9d": 1,
+        "f81a2e7f0b4248efb5877aa36f0cd4ad": 1,
+        "5eebf85b4a32c45be3f2051b5d0e0f12": 1,
+        "5c1036b53a4146e4841df4ed0a9de8f0": 2,
+        "89026c0e23ca49dcb85d26a1d0805b33": 5,
+        "0686081700e940b88524c9626af2c59b": 4,
+        "92c32ceaaac84139add7ebda884f0a47": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "BS-CR2032-8",
+          1,
+          "BAT-SMD_BS-CR2032-8",
+          "BAT6",
+          {
+            "Manufacturer Part": "BS-CR2032-8",
+            "Manufacturer": "LX(连欣科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7498149"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "C0805",
+          "C1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.1u",
+          4,
+          "C0805",
+          "C2,C4,C5,C6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "XY-B2B-PH-K-S",
+          1,
+          "CONN-TH_B2B-PH-K-S",
+          "CN1",
+          {
+            "Manufacturer Part": "XY-B2B-PH-K-S",
+            "Manufacturer": "XYECONN(辛译)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C51940125"
+          }
+        ],
+        [
+          "B4B-PH-K-S(LF)(SN)",
+          1,
+          "CONN-TH_B4B-PH-K-S",
+          "CN3",
+          {
+            "Manufacturer Part": "B4B-PH-K-S(LF)(SN)",
+            "Manufacturer": "JST",
+            "Supplier": "LCSC",
+            "Supplier Part": "C131334"
+          }
+        ],
+        [
+          "2.54-1*6PHeader-RA",
+          1,
+          "HDR-TH_6P-P2.54-H-M-W10.0",
+          "J1",
+          {
+            "Manufacturer Part": "2.54-1*6P反弯排针",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C56816"
+          }
+        ],
+        [
+          "Header2.54mm 1*8P",
+          1,
+          "HDR-TH_8P-P2.54-V-M",
+          "J3",
+          {
+            "Manufacturer Part": "Header2.54mm 1*8P",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49256"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x8",
+          1,
+          "HDR-M-2.54_1X8",
+          "J4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C190820"
+          }
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          2,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "KEY1,KEY2",
+          {
+            "Manufacturer Part": "K2-1107ST-A4SW-06",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C118141"
+          }
+        ],
+        [
+          "AO3401A_C5380686",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q3",
+          {
+            "Manufacturer Part": "AO3401A",
+            "Manufacturer": "FUXINSEMI(富芯森美)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5380686"
+          }
+        ],
+        [
+          "1k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Screw-M4",
+          4,
+          "SCREW-M4",
+          "SCREW1,SCREW2,SCREW3,SCREW4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32-C3-WROOM-02-H4",
+          1,
+          "WIFIM-SMD_18P-L20.0-W18.0-P1.50",
+          "U1",
+          {
+            "Manufacturer Part": "ESP32-C3-WROOM-02-H4",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2944070"
+          }
+        ],
+        [
+          "MCP1700T-3302E/TT",
+          1,
+          "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR",
+          "U11",
+          {
+            "Manufacturer Part": "MCP1700T-3302E/TT",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C39051"
+          }
+        ],
+        [
+          "DS3231SN#",
+          1,
+          "SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL",
+          "U17",
+          {
+            "Manufacturer Part": "DS3231SN#T&R",
+            "Manufacturer": "ADI(亚德诺)/MAXIM(美信)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9866"
+          }
+        ]
+      ],
+      "updateTime": 1763426373,
+      "createTime": 1763412868,
+      "histories": [],
+      "created_at": "2025-11-17 21:54:28",
+      "updated_at": "2025-11-18 01:39:33"
+    }
+  ],
+  "sort": [],
+  "title": "Smart_Tiestu_v4",
+  "foldername": "Smart_Tiestu_v4",
+  "schfilename": "Smart_Tiestu_v4.json",
+  "schfilemtime": 1763426373496
+}

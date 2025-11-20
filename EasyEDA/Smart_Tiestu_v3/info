@@ -1,0 +1,304 @@
+{
+  "uuid": "29d51b735996deab87a2f04d376f5859",
+  "path": "Offline/Smart_Tiestu_v3",
+  "name": "Smart_Tiestu_v3",
+  "content": "",
+  "created_at": "2025-11-17 12:58:54",
+  "updated_at": "2025-11-17 22:00:21",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "57c0fda441387d88b8bc02666c9dbb12",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "6baac764081545900d527035a5806b9d": 1,
+        "b0ba090121e84c169f1b36c431c96d8a": 1,
+        "0f555919900e4902bcc94053395edfbf": 1,
+        "101e991a30b14ab7a14b842490d61bae": 2,
+        "bb009484ef804a24ac5d18c54b249586": 1,
+        "3eca2e89d67b4fe5984cc741b1d2957c": 1,
+        "8a6f828e8a2233e5136da005d68a73ac": 1,
+        "62f8137465cdeec1acfc1ae5a7704340": 1,
+        "6d59262ca37c4a51accc7244ee40487e": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "BS-CR2032-8",
+          2,
+          "BAT-SMD_BS-CR2032-8",
+          "BAT5,BAT6",
+          {
+            "Manufacturer Part": "BS-CR2032-8",
+            "Manufacturer": "LX(连欣科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7498149"
+          }
+        ],
+        [
+          "B4B-PH-K-S(LF)(SN)",
+          1,
+          "CONN-TH_B4B-PH-K-S",
+          "CN3",
+          {
+            "Manufacturer Part": "B4B-PH-K-S(LF)(SN)",
+            "Manufacturer": "JST",
+            "Supplier": "LCSC",
+            "Supplier Part": "C131334"
+          }
+        ],
+        [
+          "1*7PIN排间距2.54MM",
+          1,
+          "CONN-TH_7P-P2.54_C9900012194",
+          "CN4",
+          {
+            "Manufacturer Part": "1*7pin排间距2.54mm",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900012194"
+          }
+        ],
+        [
+          "Header2.54mm 1*8P",
+          1,
+          "HDR-TH_8P-P2.54-V-M",
+          "J3",
+          {
+            "Manufacturer Part": "Header2.54mm 1*8P",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49256"
+          }
+        ],
+        [
+          "2.54mm 1*5P Header",
+          1,
+          "HDR-TH_5P-P2.54-V-M",
+          "P3",
+          {
+            "Manufacturer Part": "2.54mm 1*5P Header",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C50951"
+          }
+        ],
+        [
+          "AO3401A_C5380686",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q3",
+          {
+            "Manufacturer Part": "AO3401A",
+            "Manufacturer": "FUXINSEMI(富芯森美)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5380686"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "DS3231SN#",
+          1,
+          "SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL",
+          "U17",
+          {
+            "Manufacturer Part": "DS3231SN#T&R",
+            "Manufacturer": "ADI(亚德诺)/MAXIM(美信)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9866"
+          }
+        ],
+        [
+          "ESP32C3-SUPERMINI",
+          1,
+          "COMM-SMD_16P-L22.5-W18.0-P2.54-TL",
+          "U19",
+          {
+            "Manufacturer Part": "ESP32C3-SuperMini",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900147397"
+          }
+        ]
+      ],
+      "updateTime": 1763412838,
+      "createTime": 1763380735,
+      "histories": [],
+      "created_at": "2025-11-17 12:58:55",
+      "updated_at": "2025-11-17 21:53:58"
+    },
+    {
+      "uuid": "7d6c867de09d980034d0f52578f69880",
+      "puuid": "29d51b735996deab87a2f04d376f5859",
+      "title": "PCB_Smart_Tiestu_v3",
+      "filename": "PCB_Smart_Tiestu_v3.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "82c64c074e514e88a7b15c0693864c7b": 2,
+        "2a7f16be484242a0bee6cf35b3e564ae": 1,
+        "3f4cacfd776343c19e4fa391e5c005e6": 1,
+        "7142253ac24c42e1954a7f7d1d66b136": 1,
+        "97560a62b45c46d5b6e85aaea1cd55a1": 1,
+        "bade90667a6e4731855e9a223387b8a6": 1,
+        "398691f1f785460098bbe5ee6590333c": 1,
+        "a97f5b7dda374d21b303cfcde1d7b753": 1,
+        "c3a3a479239346a8bb3da07840bfe89e": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "BS-CR2032-8",
+          2,
+          "BAT-SMD_BS-CR2032-8",
+          "BAT5,BAT6",
+          {
+            "Manufacturer Part": "BS-CR2032-8",
+            "Manufacturer": "LX(连欣科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7498149"
+          }
+        ],
+        [
+          "B4B-PH-K-S(LF)(SN)",
+          1,
+          "CONN-TH_B4B-PH-K-S",
+          "CN3",
+          {
+            "Manufacturer Part": "B4B-PH-K-S(LF)(SN)",
+            "Manufacturer": "JST",
+            "Supplier": "LCSC",
+            "Supplier Part": "C131334"
+          }
+        ],
+        [
+          "1*7PIN排间距2.54MM",
+          1,
+          "CONN-TH_7P-P2.54_C9900012194",
+          "CN4",
+          {
+            "Manufacturer Part": "1*7pin排间距2.54mm",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900012194"
+          }
+        ],
+        [
+          "Header2.54mm 1*8P",
+          1,
+          "HDR-TH_8P-P2.54-V-M",
+          "J3",
+          {
+            "Manufacturer Part": "Header2.54mm 1*8P",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49256"
+          }
+        ],
+        [
+          "2.54mm 1*5P Header",
+          1,
+          "HDR-TH_5P-P2.54-V-M",
+          "P3",
+          {
+            "Manufacturer Part": "2.54mm 1*5P Header",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C50951"
+          }
+        ],
+        [
+          "AO3401A_C5380686",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q3",
+          {
+            "Manufacturer Part": "AO3401A",
+            "Manufacturer": "FUXINSEMI(富芯森美)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5380686"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32C3-SUPERMINI",
+          1,
+          "COMM-SMD_16P-L22.5-W18.0-P2.54-TL",
+          "U19",
+          {
+            "Manufacturer Part": "ESP32C3-SuperMini",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900147397"
+          }
+        ],
+        [
+          "DS3231SN#",
+          1,
+          "SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL",
+          "U17",
+          {
+            "Manufacturer Part": "DS3231SN#T&R",
+            "Manufacturer": "ADI(亚德诺)/MAXIM(美信)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9866"
+          }
+        ]
+      ],
+      "updateTime": 1763413221,
+      "createTime": 1763382098,
+      "histories": [],
+      "created_at": "2025-11-17 13:21:38",
+      "updated_at": "2025-11-17 22:00:21"
+    }
+  ],
+  "sort": [
+    "a0310927fe75a40fa2109349264682b9",
+    "b3e2c97d055fd7dc03bae0cc2869c96b",
+    "739c6747fdfcd7c3489b62c3153df010"
+  ],
+  "title": "Smart_Tiestu_v3",
+  "foldername": "Smart_Tiestu_v3",
+  "schfilename": "Smart_Tiestu_v3.json",
+  "schfilemtime": 1763412839011
+}
