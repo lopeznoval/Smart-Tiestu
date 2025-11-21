@@ -1,0 +1,118 @@
+{
+  "uuid": "e68b6ccc96ed8dd9704a08e17195005d",
+  "path": "Offline/integracion2025",
+  "name": "integracion2025",
+  "content": "",
+  "created_at": "2025-10-22 09:31:15",
+  "updated_at": "2025-10-22 10:07:40",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "9cb731a84098752d828b6de817ab3378",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "fc996d198f584e8d82d746d9ec30d9eb": 1,
+        "bb009484ef804a24ac5d18c54b249586": 2,
+        "3ec77201bbcd4ecd8722658d581a4e60": 2,
+        "fd11c9e744c44aeab6011e8bd4c3ea86": 2,
+        "091003b24ae14352bba53ae8986bd088": 1,
+        "e545f26e87c74952857381bd0bff848e": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          2,
+          "C0603",
+          "C1,C2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1u",
+          1,
+          "CASE-A_3216",
+          "C3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-F-2.54_1x2",
+          2,
+          "HDR-F-2.54_1X2",
+          "H1,H2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "1k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "OP07DP-2",
+          1,
+          "PDIP-8_L9.6-W6.4-P2.54-LS7.9-BL",
+          "U1",
+          {
+            "Manufacturer Part": "OP07DP-2",
+            "Manufacturer": "ADI(亚德诺)/MAXIM(美信)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C4367219"
+          }
+        ],
+        [
+          "Lolin D32",
+          1,
+          "WEMOS_LOLIND32_V1.0.0",
+          "U2",
+          {
+            "Manufacturer Part": "New SchematicLib",
+            "Manufacturer": "",
+            "Supplier": "Wemos",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1761120460,
+      "createTime": 1761118276,
+      "histories": [],
+      "created_at": "2025-10-22 09:31:16",
+      "updated_at": "2025-10-22 10:07:40"
+    }
+  ],
+  "sort": [],
+  "title": "integracion2025",
+  "foldername": "integracion2025",
+  "schfilename": "integracion2025.json",
+  "schfilemtime": 1761120460893
+}

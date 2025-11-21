@@ -4,7 +4,7 @@
   "name": "Smart_Tiestu",
   "content": "",
   "created_at": "2025-11-10 21:26:29",
-  "updated_at": "2025-11-17 22:00:19",
+  "updated_at": "2025-11-21 11:55:27",
   "stick": "",
   "documents": [
     {
@@ -476,11 +476,10 @@
       "thumb": "/images/thumb-default.png",
       "components": {
         "6d59262ca37c4a51accc7244ee40487e": 1,
-        "62f8137465cdeec1acfc1ae5a7704340": 1,
         "8a6f828e8a2233e5136da005d68a73ac": 1,
         "3eca2e89d67b4fe5984cc741b1d2957c": 1,
         "bb009484ef804a24ac5d18c54b249586": 1,
-        "101e991a30b14ab7a14b842490d61bae": 2,
+        "101e991a30b14ab7a14b842490d61bae": 1,
         "0f555919900e4902bcc94053395edfbf": 1,
         "b0ba090121e84c169f1b36c431c96d8a": 1,
         "6baac764081545900d527035a5806b9d": 1
@@ -495,9 +494,9 @@
         ],
         [
           "BS-CR2032-8",
-          6,
+          5,
           "BAT-SMD_BS-CR2032-8",
-          "BAT1,BAT2,BAT3,BAT4,BAT5,BAT6",
+          "BAT1,BAT2,BAT3,BAT4,BAT5",
           {
             "Manufacturer Part": "BS-CR2032-8",
             "Manufacturer": "LX(连欣科技)",
@@ -675,9 +674,9 @@
         ],
         [
           "DS3231SN#",
-          3,
+          2,
           "SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL",
-          "U5,U8,U17",
+          "U5,U8",
           {
             "Manufacturer Part": "DS3231SN#T&R",
             "Manufacturer": "ADI(亚德诺)/MAXIM(美信)",
@@ -710,11 +709,11 @@
           }
         ]
       ],
-      "updateTime": 1763380754,
+      "updateTime": 1763722527,
       "createTime": 1763377904,
       "histories": [],
       "created_at": "2025-11-17 12:11:44",
-      "updated_at": "2025-11-17 12:59:14"
+      "updated_at": "2025-11-21 11:55:27"
     }
   ],
   "sort": [
@@ -725,5 +724,5 @@
   "title": "Smart_Tiestu",
   "foldername": "Smart_Tiestu",
   "schfilename": "Smart_Tiestu.json",
-  "schfilemtime": 1763413219283
+  "schfilemtime": 1763722527418
 }

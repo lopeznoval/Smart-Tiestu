@@ -4,7 +4,7 @@
   "name": "Smart_Tiestu_v4",
   "content": "",
   "created_at": "2025-11-17 21:54:27",
-  "updated_at": "2025-11-18 01:39:33",
+  "updated_at": "2025-11-21 11:54:29",
   "stick": "",
   "documents": [
     {
@@ -18,17 +18,16 @@
         "49d780d868d0459f9f25a3df94583065": 1,
         "0c519a9ddcfa48f3a0ac7f5d8285c10c": 1,
         "6d59262ca37c4a51accc7244ee40487e": 1,
-        "62f8137465cdeec1acfc1ae5a7704340": 1,
         "3eca2e89d67b4fe5984cc741b1d2957c": 1,
         "bb009484ef804a24ac5d18c54b249586": 3,
-        "101e991a30b14ab7a14b842490d61bae": 1,
         "6baac764081545900d527035a5806b9d": 1,
         "f81a2e7f0b4248efb5877aa36f0cd4ad": 1,
         "5eebf85b4a32c45be3f2051b5d0e0f12": 1,
         "5c1036b53a4146e4841df4ed0a9de8f0": 2,
         "89026c0e23ca49dcb85d26a1d0805b33": 5,
         "0686081700e940b88524c9626af2c59b": 4,
-        "92c32ceaaac84139add7ebda884f0a47": 1
+        "92c32ceaaac84139add7ebda884f0a47": 1,
+        "f5b1d9403e49471cab43bc5a1bec336f": 1
       },
       "BOM": [
         [
@@ -37,18 +36,6 @@
           "Package",
           "Components",
           "CustomPara"
-        ],
-        [
-          "BS-CR2032-8",
-          1,
-          "BAT-SMD_BS-CR2032-8",
-          "BAT6",
-          {
-            "Manufacturer Part": "BS-CR2032-8",
-            "Manufacturer": "LX(连欣科技)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C7498149"
-          }
         ],
         [
           "10u",
@@ -108,6 +95,18 @@
             "Manufacturer": "BOOMELE(博穆精密)",
             "Supplier": "LCSC",
             "Supplier Part": "C56816"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x4",
+          1,
+          "HDR-M-2.54_1X4",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124378"
           }
         ],
         [
@@ -217,30 +216,18 @@
             "Supplier": "LCSC",
             "Supplier Part": "C39051"
           }
-        ],
-        [
-          "DS3231SN#",
-          1,
-          "SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL",
-          "U17",
-          {
-            "Manufacturer Part": "DS3231SN#T&R",
-            "Manufacturer": "ADI(亚德诺)/MAXIM(美信)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C9866"
-          }
         ]
       ],
-      "updateTime": 1763426373,
+      "updateTime": 1763722469,
       "createTime": 1763412868,
       "histories": [],
       "created_at": "2025-11-17 21:54:28",
-      "updated_at": "2025-11-18 01:39:33"
+      "updated_at": "2025-11-21 11:54:29"
     }
   ],
   "sort": [],
   "title": "Smart_Tiestu_v4",
   "foldername": "Smart_Tiestu_v4",
   "schfilename": "Smart_Tiestu_v4.json",
-  "schfilemtime": 1763426373496
+  "schfilemtime": 1763722469914
 }
