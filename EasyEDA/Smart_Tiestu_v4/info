@@ -4,7 +4,7 @@
   "name": "Smart_Tiestu_v4",
   "content": "",
   "created_at": "2025-11-17 21:54:27",
-  "updated_at": "2025-11-21 11:54:29",
+  "updated_at": "2025-11-27 03:03:27",
   "stick": "",
   "documents": [
     {
@@ -17,17 +17,17 @@
       "components": {
         "49d780d868d0459f9f25a3df94583065": 1,
         "0c519a9ddcfa48f3a0ac7f5d8285c10c": 1,
-        "6d59262ca37c4a51accc7244ee40487e": 1,
         "3eca2e89d67b4fe5984cc741b1d2957c": 1,
         "bb009484ef804a24ac5d18c54b249586": 3,
-        "6baac764081545900d527035a5806b9d": 1,
         "f81a2e7f0b4248efb5877aa36f0cd4ad": 1,
-        "5eebf85b4a32c45be3f2051b5d0e0f12": 1,
         "5c1036b53a4146e4841df4ed0a9de8f0": 2,
-        "89026c0e23ca49dcb85d26a1d0805b33": 5,
-        "0686081700e940b88524c9626af2c59b": 4,
-        "92c32ceaaac84139add7ebda884f0a47": 1,
-        "f5b1d9403e49471cab43bc5a1bec336f": 1
+        "89026c0e23ca49dcb85d26a1d0805b33": 6,
+        "f5b1d9403e49471cab43bc5a1bec336f": 2,
+        "93b44d62463c4c9c82dd7108c8ee7d73": 1,
+        "eaa76950fd7343a1953943ee7b9978d3": 1,
+        "2f5c8276f8d64010877a8d3bb97697b8": 1,
+        "2415bc5b721942a0a7520b5bc6ecd722": 4,
+        "a7a0e276dadd4f8097422d2afc2e1b9c": 2
       },
       "BOM": [
         [
@@ -38,10 +38,46 @@
           "CustomPara"
         ],
         [
-          "10u",
+          "HDR-M-2.54_1x6",
           1,
-          "C0805",
-          "C1",
+          "HDR-M-2.54_1X6",
+          "BH1750",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C190819"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x4",
+          2,
+          "HDR-M-2.54_1X4",
+          "BME280,DS3231",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124378"
+          }
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          2,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "BOOT,RST",
+          {
+            "Manufacturer Part": "K2-1107ST-A4SW-06",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C118141"
+          }
+        ],
+        [
+          "10u",
+          2,
+          "CAP-D5.0-H5.5",
+          "C1,C2",
           {
             "Manufacturer Part": "",
             "Manufacturer": "",
@@ -51,9 +87,9 @@
         ],
         [
           "0.1u",
-          4,
+          6,
           "C0805",
-          "C2,C4,C5,C6",
+          "C3,C4,C5,C6,C7,C9",
           {
             "Manufacturer Part": "",
             "Manufacturer": "",
@@ -74,34 +110,205 @@
           }
         ],
         [
-          "B4B-PH-K-S(LF)(SN)",
+          "AO3401A_C5380686",
           1,
-          "CONN-TH_B4B-PH-K-S",
-          "CN3",
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q3",
           {
-            "Manufacturer Part": "B4B-PH-K-S(LF)(SN)",
-            "Manufacturer": "JST",
+            "Manufacturer Part": "AO3401A",
+            "Manufacturer": "FUXINSEMI(富芯森美)",
             "Supplier": "LCSC",
-            "Supplier Part": "C131334"
+            "Supplier Part": "C5380686"
           }
         ],
         [
-          "2.54-1*6PHeader-RA",
+          "10k",
           1,
-          "HDR-TH_6P-P2.54-H-M-W10.0",
-          "J1",
+          "R0603",
+          "R1",
           {
-            "Manufacturer Part": "2.54-1*6P反弯排针",
-            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1k",
+          2,
+          "R0603",
+          "R2,R3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Screw-M3",
+          4,
+          "SCREW-M3",
+          "SCREW1,SCREW2,SCREW3,SCREW4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-F-2.54_1x4",
+          1,
+          "HDR-F-2.54_1X4",
+          "SOIL_SENSOR",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
             "Supplier": "LCSC",
-            "Supplier Part": "C56816"
+            "Supplier Part": "C225501"
+          }
+        ],
+        [
+          "ESP32-C3-WROOM-02-H4",
+          1,
+          "WIFIM-SMD_18P-L20.0-W18.0-P1.50",
+          "U1",
+          {
+            "Manufacturer Part": "ESP32-C3-WROOM-02-H4",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2944070"
+          }
+        ],
+        [
+          "MCP1700T-3302E/TT",
+          1,
+          "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR",
+          "U11",
+          {
+            "Manufacturer Part": "MCP1700T-3302E/TT",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C39051"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x6",
+          1,
+          "HDR-F-2.54_1X6",
+          "USB-UART",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C40877"
+          }
+        ]
+      ],
+      "updateTime": 1764208614,
+      "createTime": 1763412868,
+      "histories": [],
+      "created_at": "2025-11-17 21:54:28",
+      "updated_at": "2025-11-27 02:56:54"
+    },
+    {
+      "uuid": "b38c0c6fae6dd24edb927f687f98bc0d",
+      "puuid": "f9e7095ea5b9e5b6473b67094ae7e85c",
+      "title": "PCB_Smart_Tiestu_v4_3",
+      "filename": "PCB_Smart_Tiestu_v4_3.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2ee8eb13a0124a108e622ce40c0c25a8": 6,
+        "bade90667a6e4731855e9a223387b8a6": 1,
+        "cb4e676979cd452098f993c9185852ec": 4,
+        "91b20039a7a9400d8a6296f3fb626a78": 1,
+        "b3b82869fa924bae820e3a6cfb44d689": 1,
+        "daa0a4149f974409b6797054cab61758": 2,
+        "21473b495b6340c992965357d5701779": 1,
+        "398691f1f785460098bbe5ee6590333c": 3,
+        "daacbe2eec304950b61eef2efe596556": 2,
+        "df3ca37cb13d499cb713e9aa6fdd0c7b": 1,
+        "282f7786cb6144d097ae00194c3e3fb3": 2,
+        "685bd04c33df492ab1ad332fe461c196": 1,
+        "e86d43893d914130bd34765c00ed5f63": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10u",
+          2,
+          "C0805",
+          "C1,C8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.1u",
+          6,
+          "C0805",
+          "C2,C3,C4,C5,C6,C7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "XY-B2B-PH-K-S",
+          1,
+          "CONN-TH_B2B-PH-K-S",
+          "CN1",
+          {
+            "Manufacturer Part": "XY-B2B-PH-K-S",
+            "Manufacturer": "XYECONN(辛译)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C51940125"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x4",
+          1,
+          "HDR-F-2.54_1X4",
+          "H1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225501"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x6",
+          1,
+          "HDR-F-2.54_1X6",
+          "H2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C40877"
           }
         ],
         [
           "HDR-M-2.54_1x4",
-          1,
+          2,
           "HDR-M-2.54_1X4",
-          "J2",
+          "J2,J4",
           {
             "Manufacturer Part": "",
             "Manufacturer": "",
@@ -110,27 +317,15 @@
           }
         ],
         [
-          "Header2.54mm 1*8P",
+          "HDR-M-2.54_1x6",
           1,
-          "HDR-TH_8P-P2.54-V-M",
+          "HDR-M-2.54_1X6",
           "J3",
-          {
-            "Manufacturer Part": "Header2.54mm 1*8P",
-            "Manufacturer": "ReliaPro",
-            "Supplier": "LCSC",
-            "Supplier Part": "C49256"
-          }
-        ],
-        [
-          "HDR-M-2.54_1x8",
-          1,
-          "HDR-M-2.54_1X8",
-          "J4",
           {
             "Manufacturer Part": "",
             "Manufacturer": "",
             "Supplier": "LCSC",
-            "Supplier Part": "C190820"
+            "Supplier Part": "C190819"
           }
         ],
         [
@@ -182,9 +377,9 @@
           }
         ],
         [
-          "Screw-M4",
+          "Screw-M3",
           4,
-          "SCREW-M4",
+          "SCREW-M3",
           "SCREW1,SCREW2,SCREW3,SCREW4",
           {
             "Manufacturer Part": "",
@@ -218,16 +413,16 @@
           }
         ]
       ],
-      "updateTime": 1763722469,
-      "createTime": 1763412868,
+      "updateTime": 1764209007,
+      "createTime": 1763758012,
       "histories": [],
-      "created_at": "2025-11-17 21:54:28",
-      "updated_at": "2025-11-21 11:54:29"
+      "created_at": "2025-11-21 21:46:52",
+      "updated_at": "2025-11-27 03:03:27"
     }
   ],
   "sort": [],
   "title": "Smart_Tiestu_v4",
   "foldername": "Smart_Tiestu_v4",
   "schfilename": "Smart_Tiestu_v4.json",
-  "schfilemtime": 1763722469914
+  "schfilemtime": 1764208614305
 }
