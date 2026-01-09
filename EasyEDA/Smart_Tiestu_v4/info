@@ -4,7 +4,7 @@
   "name": "Smart_Tiestu_v4",
   "content": "",
   "created_at": "2025-11-17 21:54:27",
-  "updated_at": "2025-11-27 03:03:27",
+  "updated_at": "2025-12-02 12:53:23",
   "stick": "",
   "documents": [
     {
@@ -101,7 +101,7 @@
           "XY-B2B-PH-K-S",
           1,
           "CONN-TH_B2B-PH-K-S",
-          "CN1",
+          "PWR",
           {
             "Manufacturer Part": "XY-B2B-PH-K-S",
             "Manufacturer": "XYECONN(辛译)",
@@ -185,7 +185,7 @@
           "MCP1700T-3302E/TT",
           1,
           "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR",
-          "U11",
+          "U2",
           {
             "Manufacturer Part": "MCP1700T-3302E/TT",
             "Manufacturer": "MICROCHIP(美国微芯)",
@@ -206,11 +206,11 @@
           }
         ]
       ],
-      "updateTime": 1764208614,
+      "updateTime": 1764231991,
       "createTime": 1763412868,
       "histories": [],
       "created_at": "2025-11-17 21:54:28",
-      "updated_at": "2025-11-27 02:56:54"
+      "updated_at": "2025-11-27 09:26:31"
     },
     {
       "uuid": "b38c0c6fae6dd24edb927f687f98bc0d",
@@ -222,18 +222,18 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
+        "685bd04c33df492ab1ad332fe461c196": 1,
+        "b3b82869fa924bae820e3a6cfb44d689": 1,
         "2ee8eb13a0124a108e622ce40c0c25a8": 6,
         "bade90667a6e4731855e9a223387b8a6": 1,
         "cb4e676979cd452098f993c9185852ec": 4,
         "91b20039a7a9400d8a6296f3fb626a78": 1,
-        "b3b82869fa924bae820e3a6cfb44d689": 1,
         "daa0a4149f974409b6797054cab61758": 2,
         "21473b495b6340c992965357d5701779": 1,
         "398691f1f785460098bbe5ee6590333c": 3,
         "daacbe2eec304950b61eef2efe596556": 2,
         "df3ca37cb13d499cb713e9aa6fdd0c7b": 1,
         "282f7786cb6144d097ae00194c3e3fb3": 2,
-        "685bd04c33df492ab1ad332fe461c196": 1,
         "e86d43893d914130bd34765c00ed5f63": 1
       },
       "BOM": [
@@ -413,16 +413,16 @@
           }
         ]
       ],
-      "updateTime": 1764209007,
+      "updateTime": 1764676403,
       "createTime": 1763758012,
       "histories": [],
       "created_at": "2025-11-21 21:46:52",
-      "updated_at": "2025-11-27 03:03:27"
+      "updated_at": "2025-12-02 12:53:23"
     }
   ],
   "sort": [],
   "title": "Smart_Tiestu_v4",
   "foldername": "Smart_Tiestu_v4",
   "schfilename": "Smart_Tiestu_v4.json",
-  "schfilemtime": 1764208614305
+  "schfilemtime": 1764231991891
 }
